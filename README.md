@@ -117,8 +117,8 @@ Feel free to fork this repository, submit issues, or create pull requests to imp
 
 This project is licensed under the MIT License.
 
-#### Made with ❤️ by The following Team Members From Rajalakshmi Institute of Technology, Chennai.
-1. Hassan (ME)
+#### Made with ❤️ by The following Students From Rajalakshmi Institute of Technology, Chennai.
+1. Hassan Kaif (ME)
 2. Lavanya
 3. Mohammed Muhsin
 4. Nishanthini
