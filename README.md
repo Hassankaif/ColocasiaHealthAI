@@ -13,7 +13,7 @@ AI-Powered Recommendations: Uses FLAN-T5 and BART for treatment suggestions.
 Streamlit UI: User-friendly interface for easy interaction.
 
 ## Frontend
-![Slide 1](https://github.com/Hassankaif/ColocasiaHealthAI/blob/main/Visualization/F1.png)
+![Slide 1](https://github.com/Hassankaif/ColocasiaHealthAI/blob/main/Visualization/F!.png)
 ![Slide 2](https://github.com/Hassankaif/ColocasiaHealthAI/blob/main/Visualization/F2.png)
 ![Slide 3](https://github.com/Hassankaif/ColocasiaHealthAI/blob/main/Visualization/F3.png)
 
@@ -27,10 +27,10 @@ Streamlit UI: User-friendly interface for easy interaction.
 ## 🛠️ Installation
 
 ### 1️⃣ Clone the Repository
-
-git clone https://github.com/your-repo/colocasia-leaf-disease.git
+```
+git clone https://github.com/Hassankaif/ColocasiaHealthAI.git
 cd colocasia-leaf-disease
-
+```
 ### 2️⃣ Create a Virtual Environment (Optional but Recommended)
 ``` 
 python -m venv venv
