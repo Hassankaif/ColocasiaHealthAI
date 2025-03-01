@@ -13,14 +13,15 @@ AI-Powered Recommendations: Uses FLAN-T5 and BART for treatment suggestions.
 Streamlit UI: User-friendly interface for easy interaction.
 
 ## Frontend
-![Slide 1]('https://github.com/Hassankaif/ColocasiaHealthAI/blob/main/Visualization/F1.png')
-![Slide 2]('https://github.com/Hassankaif/ColocasiaHealthAI/blob/main/Visualization/F2.png')
-![Slide 3]('https://github.com/Hassankaif/ColocasiaHealthAI/blob/main/Visualization/F3.png')
+![Slide 1](https://github.com/Hassankaif/ColocasiaHealthAI/blob/main/Visualization/F1.png)
+![Slide 2](https://github.com/Hassankaif/ColocasiaHealthAI/blob/main/Visualization/F2.png)
+![Slide 3](https://github.com/Hassankaif/ColocasiaHealthAI/blob/main/Visualization/F3.png)
 
 ## Training InSights
-![Slide 3]('https://github.com/Hassankaif/ColocasiaHealthAI/blob/main/Visualization/performance_radar.png')
-![Slide 3]('https://github.com/Hassankaif/ColocasiaHealthAI/blob/main/Visualization/pest_detection_performance.png')
-![Slide 3]('https://github.com/Hassankaif/ColocasiaHealthAI/blob/main/Visualization/pest_detection_convergence.png')
+![Slide 1](https://github.com/Hassankaif/ColocasiaHealthAI/blob/main/Visualization/performance_radar.png)
+![Slide 2](https://github.com/Hassankaif/ColocasiaHealthAI/blob/main/Visualization/pest_detection_performance.png)
+![Slide 3](https://github.com/Hassankaif/ColocasiaHealthAI/blob/main/Visualization/pest_detection_convergence.png)
+
 
 
 ## 🛠️ Installation
